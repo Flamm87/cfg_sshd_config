@@ -1,12 +1,3 @@
-![alt text][logo]
-
-# Cybionet - Ugly Codes Division
-
-## SUMMARY
-
-Here is a sshd_config configuration file for the SSHD service annotate according to Cybionet standards.
-
-
 ## "FEATURES"
 
 - Complies with STIG recommendations
