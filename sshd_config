@@ -1,17 +1,3 @@
-# * ************************************************************************ 
-# * 
-# * Author:             (c) 2004-2024  Cybionet - Integration & Securite Systeme 
-# * 
-# * File:               sshd_conf 
-# * Version:            1.2.30
-# * 
-# * Description:        Configuration of SSHD service complying with Cybionet standards.
-# * 
-# * Creation: April 14, 2016 
-# * Change:   February 13, 2024
-# * 
-# ************************************************************************  
-
 #Include /etc/ssh/sshd_config.d/*.conf
 
 ############ LISTERNER ###########################
